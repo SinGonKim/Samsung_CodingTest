@@ -9,7 +9,7 @@
    ## 😎 팀원 소개
    |이름|Solved.ac|이름|Solved.ac|
    |--|--|--|--|
-   |[김신곤](https://github.com/SinGonKim)|[![Solved.ac프로필](추가)](추가)|[윤다빈](추가)|[![Solved.ac프로필](추가)](추가)|
+   |[김신곤](https://github.com/SinGonKim)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=singon96)]((https://solved.ac/profile/singon96))|[윤다빈](추가)|[![Solved.ac프로필](추가)](추가)|
    |[장동주](추가)|[![Solved.ac프로필](추가)](추가)|[최정민](https://github.com/JMine97)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chlwjdals98)](https://solved.ac/profile/chlwjdals98)|
 
    <br><br>
