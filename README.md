@@ -7,15 +7,12 @@
    ---
    
    ## 😎 팀원 소개
-   <div align="center">
-      
- 
-      
-   
-   |||||
-   |:---:|:---:|:---:|:---:|
-   |||||
-  
+   |이름|Solved.ac|이름|Solved.ac|
+   |--|--|--|--|
+   |[김신곤](https://github.com/SinGonKim)|[![Solved.ac프로필](추가)](추가)|[윤다빈](추가)|[![Solved.ac프로필](추가)](추가)|
+   |[장동주](추가)|[![Solved.ac프로필](추가)](추가)|[최정민](https://github.com/JMine97)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chlwjdals98)](https://solved.ac/profile/chlwjdals98)|
+
+   <br><br>
    </div>
    
    ---
@@ -24,6 +21,17 @@
    ### 스크럼
    * 월요일 22시에 Meet에서 코드 리뷰
    * 각자 주어진 문제를 풀어오기
+
+   ### 커밋 규칙
+   * 브랜치
+      * 본인 이름 브랜치(ex. jeongmin)
+   *  파일명
+      *  문제이름_이름(ex. 싸움땅_jeongmin)
+   * 업로드 위치
+      * week1/
+   *  커밋 메시지 규칙
+      *  주차 문제이름 난이도(EX. week1 싸움땅 G2)
+   *  라벨
    
    ### 문제
    |티어|문항|출처|문제|
