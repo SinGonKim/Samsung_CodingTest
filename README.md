@@ -1,0 +1,2 @@
+# Samsung_CodingTest
+Samsung_SW_CodingTest_2023_first_half
